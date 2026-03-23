@@ -49,7 +49,7 @@ Clicking a button updates the counter value dynamically.
 The UI reflects changes instantly without refreshing the page.
 📸 Screenshot
 
-assets/screenshot.png
+![Note App Screenshot](assets/Screenshot.png)
 
 Then display it in this README using:
 
